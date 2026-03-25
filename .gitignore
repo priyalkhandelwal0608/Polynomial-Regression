@@ -1,0 +1,11 @@
+# Manim outputs
+media/
+__pycache__/
+
+# Python environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
